@@ -1,0 +1,99 @@
+﻿{
+  "version": 1,
+  "savedUtc": "2026-06-28T15:25:51.0317359Z",
+  "count": 2,
+  "snapshots": [
+    {
+      "id": "e937ffc325ea43e9a49fb6ad71a7f4dc",
+      "name": "mat-test",
+      "createdUtc": "2026-03-26T08:08:19.0063752Z",
+      "nameContains": "Building",
+      "top": 3,
+      "useShared": true,
+      "entries": [
+        {
+          "materialInstanceId": 0,
+          "property": null,
+          "type": 0,
+          "color": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.0
+          },
+          "f": 0.0
+        },
+        {
+          "materialInstanceId": 0,
+          "property": null,
+          "type": 0,
+          "color": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.0
+          },
+          "f": 0.0
+        },
+        {
+          "materialInstanceId": 0,
+          "property": null,
+          "type": 0,
+          "color": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.0
+          },
+          "f": 0.0
+        }
+      ]
+    },
+    {
+      "id": "4f481be2ae904de797a03f1a1b5e1a61",
+      "name": "mat-test",
+      "createdUtc": "2026-03-26T08:07:56.292201Z",
+      "nameContains": "Building",
+      "top": 3,
+      "useShared": true,
+      "entries": [
+        {
+          "materialInstanceId": 0,
+          "property": null,
+          "type": 0,
+          "color": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.0
+          },
+          "f": 0.0
+        },
+        {
+          "materialInstanceId": 0,
+          "property": null,
+          "type": 0,
+          "color": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.0
+          },
+          "f": 0.0
+        },
+        {
+          "materialInstanceId": 0,
+          "property": null,
+          "type": 0,
+          "color": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.0
+          },
+          "f": 0.0
+        }
+      ]
+    }
+  ]
+}

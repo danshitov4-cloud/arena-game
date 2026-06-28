@@ -1,0 +1,815 @@
+{
+  "ok": true,
+  "schemaVersion": "0.2.0",
+  "onlyDescribed": false,
+  "includeSkeleton": true,
+  "includeExamples": true,
+  "prefix": null,
+  "command": null,
+  "maxCommands": 5000,
+  "dispatcherCount": 18,
+  "describedCount": 18,
+  "missingInHelpCount": 0,
+  "extraInHelpCount": 0,
+  "missingInHelp": [],
+  "extraInHelp": [],
+  "count": 18,
+  "commands": {
+    "help.command": {
+      "summary": "Returns schema for a single command.",
+      "risk": "info",
+      "owner": "HelpSchema",
+      "args": {
+        "command": {
+          "type": "string",
+          "required": true,
+          "optional": false,
+          "default": null,
+          "allowed": null,
+          "example": "scene.batch.offsetTransform"
+        }
+      },
+      "example": null
+    },
+    "help.commands": {
+      "summary": "Lists all commands available in dispatcher.",
+      "risk": "info",
+      "owner": "HelpSchema",
+      "args": {},
+      "example": null
+    },
+    "help.schema": {
+      "summary": "Compares dispatcher commands vs described commands. Can return skeleton for missing.",
+      "risk": "info",
+      "owner": "HelpSchema",
+      "args": {
+        "includeSkeleton": {
+          "type": "bool",
+          "required": false,
+          "optional": true,
+          "default": false,
+          "example": null
+        }
+      },
+      "example": null
+    },
+    "materials.snapshot.restore": {
+      "summary": "Restores material properties from material snapshot by id.",
+      "risk": "risky",
+      "owner": "MaterialSnapshotCommands",
+      "args": {
+        "id": {
+          "type": "string",
+          "required": true,
+          "optional": false,
+          "default": null,
+          "allowed": null,
+          "example": "8db038d7e9e744359088d87345f7b7c7"
+        },
+        "dryRun": {
+          "type": "bool",
+          "required": false,
+          "optional": true,
+          "default": false,
+          "example": null
+        }
+      },
+      "example": null
+    },
+    "materials.snapshot.take": {
+      "summary": "Captures material properties for top-used materials in scoped renderers (by nameContains).",
+      "risk": "risky",
+      "owner": "MaterialSnapshotCommands",
+      "args": {
+        "name": {
+          "type": "string",
+          "required": false,
+          "optional": true,
+          "default": null,
+          "allowed": null,
+          "example": "mat-before-red"
+        },
+        "nameContains": {
+          "type": "string",
+          "required": true,
+          "optional": false,
+          "default": null,
+          "allowed": null,
+          "example": "Building"
+        },
+        "top": {
+          "type": "int",
+          "required": false,
+          "optional": true,
+          "default": 3,
+          "min": 1,
+          "max": 200,
+          "example": null
+        },
+        "useShared": {
+          "type": "bool",
+          "required": false,
+          "optional": true,
+          "default": true,
+          "example": null
+        },
+        "properties": {
+          "type": "object",
+          "required": false,
+          "optional": true,
+          "example": "[\"_Color\",\"_BaseColor\",\"_EmissionColor\",\"_ZWrite\"]"
+        },
+        "includeAllColorAliases": {
+          "type": "bool",
+          "required": false,
+          "optional": true,
+          "default": true,
+          "example": null
+        },
+        "dryRun": {
+          "type": "bool",
+          "required": false,
+          "optional": true,
+          "default": false,
+          "example": null
+        }
+      },
+      "example": null
+    },
+    "ping": {
+      "summary": "Health check. Returns unity version, project name, active scene.",
+      "risk": "info",
+      "owner": "CommandDispatcher",
+      "args": {},
+      "example": null
+    },
+    "scene.batch.applyIfDiffComponentProperties": {
+      "summary": "Runs diff; if differences exist, applies set:{...} (optionally only when apply=true).",
+      "risk": "risky",
+      "owner": "SceneBatchProps",
+      "args": {
+        "query": {
+          "type": "object",
+          "required": true,
+          "optional": false,
+          "example": "{nameContains:\"Building\", max:500, includeInactive:true}"
+        },
+        "componentType": {
+          "type": "string",
+          "required": true,
+          "optional": false,
+          "default": null,
+          "allowed": null,
+          "example": "Rigidbody"
+        },
+        "set": {
+          "type": "object",
+          "required": true,
+          "optional": false,
+          "example": "{isKinematic:true, useGravity:false}"
+        },
+        "sampleLimit": {
+          "type": "int",
+          "required": false,
+          "optional": true,
+          "default": 20,
+          "min": 0,
+          "max": 200,
+          "example": null
+        },
+        "apply": {
+          "type": "bool",
+          "required": false,
+          "optional": true,
+          "default": true,
+          "example": null
+        },
+        "dryRun": {
+          "type": "bool",
+          "required": false,
+          "optional": true,
+          "default": false,
+          "example": null
+        }
+      },
+      "example": null
+    },
+    "scene.batch.diffComponentProperties": {
+      "summary": "Checks which objects differ from desired values (set:{...}). Returns diff stats + samples.",
+      "risk": "info",
+      "owner": "SceneBatchProps",
+      "args": {
+        "query": {
+          "type": "object",
+          "required": true,
+          "optional": false,
+          "example": "{nameContains:\"Building\", max:500, includeInactive:true}"
+        },
+        "componentType": {
+          "type": "string",
+          "required": true,
+          "optional": false,
+          "default": null,
+          "allowed": null,
+          "example": "Rigidbody"
+        },
+        "set": {
+          "type": "object",
+          "required": true,
+          "optional": false,
+          "example": "{isKinematic:true, useGravity:false}"
+        },
+        "sampleLimit": {
+          "type": "int",
+          "required": false,
+          "optional": true,
+          "default": 20,
+          "min": 0,
+          "max": 200,
+          "example": null
+        },
+        "dryRun": {
+          "type": "bool",
+          "required": false,
+          "optional": true,
+          "default": false,
+          "example": null
+        }
+      },
+      "example": null
+    },
+    "scene.batch.offsetTransform": {
+      "summary": "Offsets position/rotation/scale for objects selected by query.",
+      "risk": "risky",
+      "owner": "SceneBatchTransforms",
+      "args": {
+        "query": {
+          "type": "object",
+          "required": true,
+          "optional": false,
+          "example": "scene.query args object"
+        },
+        "space": {
+          "type": "string",
+          "required": false,
+          "optional": true,
+          "default": "world",
+          "allowed": [
+            "world",
+            "local"
+          ],
+          "example": null
+        },
+        "positionDelta": {
+          "type": "vec3",
+          "required": false,
+          "optional": true,
+          "default": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "example": null
+        },
+        "rotationDeltaEuler": {
+          "type": "vec3",
+          "required": false,
+          "optional": true,
+          "default": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "example": null
+        },
+        "scaleMul": {
+          "type": "vec3",
+          "required": false,
+          "optional": true,
+          "default": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "example": null
+        },
+        "scaleDelta": {
+          "type": "vec3",
+          "required": false,
+          "optional": true,
+          "default": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "example": null
+        },
+        "max": {
+          "type": "int",
+          "required": false,
+          "optional": true,
+          "default": 2000,
+          "min": 1,
+          "max": 20000,
+          "example": null
+        },
+        "dryRun": {
+          "type": "bool",
+          "required": false,
+          "optional": true,
+          "default": false,
+          "example": null
+        }
+      },
+      "example": null
+    },
+    "scene.batch.placePrefabGrid": {
+      "summary": "Creates a grid of prefab instances (optionally under a parent).",
+      "risk": "risky",
+      "owner": "SceneBatchTransforms",
+      "args": {
+        "assetPath": {
+          "type": "string",
+          "required": true,
+          "optional": false,
+          "default": null,
+          "allowed": null,
+          "example": "Assets/Prefabs/Tree.prefab"
+        },
+        "rows": {
+          "type": "int",
+          "required": true,
+          "optional": false,
+          "default": null,
+          "min": 1,
+          "max": null,
+          "example": null
+        },
+        "cols": {
+          "type": "int",
+          "required": true,
+          "optional": false,
+          "default": null,
+          "min": 1,
+          "max": null,
+          "example": null
+        },
+        "plane": {
+          "type": "string",
+          "required": false,
+          "optional": true,
+          "default": "xz",
+          "allowed": [
+            "xz",
+            "xy",
+            "yz"
+          ],
+          "example": null
+        },
+        "origin": {
+          "type": "vec3",
+          "required": false,
+          "optional": true,
+          "default": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "example": null
+        },
+        "spacing": {
+          "type": "vec3",
+          "required": false,
+          "optional": true,
+          "default": {
+            "x": 1,
+            "y": 0,
+            "z": 1
+          },
+          "example": null
+        },
+        "rotationEuler": {
+          "type": "vec3",
+          "required": false,
+          "optional": true,
+          "default": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "example": null
+        },
+        "scale": {
+          "type": "vec3",
+          "required": false,
+          "optional": true,
+          "default": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "example": null
+        },
+        "centered": {
+          "type": "bool",
+          "required": false,
+          "optional": true,
+          "default": false,
+          "example": null
+        },
+        "nameTemplate": {
+          "type": "string",
+          "required": false,
+          "optional": true,
+          "default": "Grid_{r}_{c}",
+          "allowed": null,
+          "example": null
+        },
+        "parentInstanceId": {
+          "type": "int",
+          "required": false,
+          "optional": true,
+          "default": 0,
+          "min": null,
+          "max": null,
+          "example": null
+        },
+        "parentName": {
+          "type": "string",
+          "required": false,
+          "optional": true,
+          "default": null,
+          "allowed": null,
+          "example": "GridRoot"
+        },
+        "createParentIfMissing": {
+          "type": "bool",
+          "required": false,
+          "optional": true,
+          "default": true,
+          "example": null
+        },
+        "makeParentNameUnique": {
+          "type": "bool",
+          "required": false,
+          "optional": true,
+          "default": true,
+          "example": null
+        },
+        "maxTotal": {
+          "type": "int",
+          "required": false,
+          "optional": true,
+          "default": 5000,
+          "min": 1,
+          "max": 50000,
+          "example": null
+        },
+        "dryRun": {
+          "type": "bool",
+          "required": false,
+          "optional": true,
+          "default": false,
+          "example": null
+        }
+      },
+      "example": null
+    },
+    "scene.batch.setComponentProperties": {
+      "summary": "Sets multiple members at once (set:{...}) for all objects matching query.",
+      "risk": "risky",
+      "owner": "SceneBatchProps",
+      "args": {
+        "query": {
+          "type": "object",
+          "required": true,
+          "optional": false,
+          "example": "{hasComponent:\"Light2D\", max:2000, includeInactive:true}"
+        },
+        "componentType": {
+          "type": "string",
+          "required": true,
+          "optional": false,
+          "default": null,
+          "allowed": null,
+          "example": "UnityEngine.Rendering.Universal.Light2D"
+        },
+        "set": {
+          "type": "object",
+          "required": true,
+          "optional": false,
+          "example": "{intensity:3.0, color:{r:1,g:0.8,b:0.6,a:1}}"
+        },
+        "dryRun": {
+          "type": "bool",
+          "required": false,
+          "optional": true,
+          "default": false,
+          "example": null
+        }
+      },
+      "example": null
+    },
+    "scene.batch.setComponentProperty": {
+      "summary": "Sets one component member/property for all objects matching query.",
+      "risk": "risky",
+      "owner": "SceneBatchProps",
+      "args": {
+        "query": {
+          "type": "object",
+          "required": true,
+          "optional": false,
+          "example": "{nameContains:\"Building\", max:500, includeInactive:true}"
+        },
+        "componentType": {
+          "type": "string",
+          "required": true,
+          "optional": false,
+          "default": null,
+          "allowed": null,
+          "example": "UnityEngine.Camera / Rigidbody / UnityEngine.Rendering.Universal.Light2D"
+        },
+        "member": {
+          "type": "string",
+          "required": true,
+          "optional": false,
+          "default": null,
+          "allowed": null,
+          "example": "orthographicSize / intensity / isKinematic"
+        },
+        "value": {
+          "type": "object",
+          "required": true,
+          "optional": false,
+          "example": "8  (or true/false or {x:0,y:1,z:0})"
+        },
+        "dryRun": {
+          "type": "bool",
+          "required": false,
+          "optional": true,
+          "default": false,
+          "example": null
+        }
+      },
+      "example": null
+    },
+    "scene.batch.snapToGrid": {
+      "summary": "Snaps objects (from query) to grid (position rounding).",
+      "risk": "risky",
+      "owner": "SceneBatchTransforms",
+      "args": {
+        "query": {
+          "type": "object",
+          "required": true,
+          "optional": false,
+          "example": "{nameContains:\"Building\", max:500, includeInactive:true}"
+        },
+        "gridSize": {
+          "type": "vec3",
+          "required": false,
+          "optional": true,
+          "default": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "example": "{x:1,y:1,z:1}"
+        },
+        "origin": {
+          "type": "vec3",
+          "required": false,
+          "optional": true,
+          "default": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "example": null
+        },
+        "space": {
+          "type": "string",
+          "required": false,
+          "optional": true,
+          "default": "world",
+          "allowed": [
+            "world",
+            "local"
+          ],
+          "example": null
+        },
+        "dryRun": {
+          "type": "bool",
+          "required": false,
+          "optional": true,
+          "default": false,
+          "example": null
+        }
+      },
+      "example": null
+    },
+    "scene.query": {
+      "summary": "Finds GameObjects by query filters (name/tag/layer/component). Returns list (truncated by max).",
+      "risk": "info",
+      "owner": "SceneQuery",
+      "args": {
+        "nameContains": {
+          "type": "string",
+          "required": false,
+          "optional": true,
+          "default": null,
+          "allowed": null,
+          "example": "Building"
+        },
+        "caseSensitive": {
+          "type": "bool",
+          "required": false,
+          "optional": true,
+          "default": false,
+          "example": null
+        },
+        "tag": {
+          "type": "string",
+          "required": false,
+          "optional": true,
+          "default": null,
+          "allowed": null,
+          "example": "Player"
+        },
+        "layer": {
+          "type": "int",
+          "required": false,
+          "optional": true,
+          "default": null,
+          "min": null,
+          "max": null,
+          "example": "0"
+        },
+        "hasComponent": {
+          "type": "string",
+          "required": false,
+          "optional": true,
+          "default": null,
+          "allowed": null,
+          "example": "Rigidbody2D / UnityEngine.Camera / Light2D"
+        },
+        "includeInactive": {
+          "type": "bool",
+          "required": false,
+          "optional": true,
+          "default": true,
+          "example": null
+        },
+        "max": {
+          "type": "int",
+          "required": false,
+          "optional": true,
+          "default": 200,
+          "min": 1,
+          "max": 5000,
+          "example": null
+        }
+      },
+      "example": null
+    },
+    "scene.selectByQuery": {
+      "summary": "Selects objects found by scene.query (Editor selection).",
+      "risk": "risky",
+      "owner": "SceneQuery",
+      "args": {
+        "nameContains": {
+          "type": "string",
+          "required": false,
+          "optional": true,
+          "default": null,
+          "allowed": null,
+          "example": "Building"
+        },
+        "caseSensitive": {
+          "type": "bool",
+          "required": false,
+          "optional": true,
+          "default": false,
+          "example": null
+        },
+        "tag": {
+          "type": "string",
+          "required": false,
+          "optional": true,
+          "default": null,
+          "allowed": null,
+          "example": "Player"
+        },
+        "layer": {
+          "type": "int",
+          "required": false,
+          "optional": true,
+          "default": null,
+          "min": null,
+          "max": null,
+          "example": "0"
+        },
+        "hasComponent": {
+          "type": "string",
+          "required": false,
+          "optional": true,
+          "default": null,
+          "allowed": null,
+          "example": "Rigidbody2D"
+        },
+        "includeInactive": {
+          "type": "bool",
+          "required": false,
+          "optional": true,
+          "default": true,
+          "example": null
+        },
+        "max": {
+          "type": "int",
+          "required": false,
+          "optional": true,
+          "default": 200,
+          "min": 1,
+          "max": 5000,
+          "example": null
+        },
+        "ping": {
+          "type": "bool",
+          "required": false,
+          "optional": true,
+          "default": true,
+          "example": "true"
+        }
+      },
+      "example": null
+    },
+    "scene.snapshot.list": {
+      "summary": "Lists saved scene snapshots (most recent first).",
+      "risk": "info",
+      "owner": "SnapshotCommands",
+      "args": {
+        "max": {
+          "type": "int",
+          "required": false,
+          "optional": true,
+          "default": 50,
+          "min": 1,
+          "max": 5000,
+          "example": null
+        }
+      },
+      "example": null
+    },
+    "scene.snapshot.restore": {
+      "summary": "Restores scene snapshot by id.",
+      "risk": "risky",
+      "owner": "SnapshotCommands",
+      "args": {
+        "id": {
+          "type": "string",
+          "required": true,
+          "optional": false,
+          "default": null,
+          "allowed": null,
+          "example": "f579d549714c49a6b28c1a17ce4fcefb"
+        },
+        "dryRun": {
+          "type": "bool",
+          "required": false,
+          "optional": true,
+          "default": false,
+          "example": null
+        }
+      },
+      "example": null
+    },
+    "scene.snapshot.take": {
+      "summary": "Takes a scene snapshot (stores enabled state / tracked stuff inside orchestrator snapshot system).",
+      "risk": "risky",
+      "owner": "SnapshotCommands",
+      "args": {
+        "name": {
+          "type": "string",
+          "required": false,
+          "optional": true,
+          "default": null,
+          "allowed": null,
+          "example": "before-opt"
+        },
+        "includeTypes": {
+          "type": "object",
+          "required": false,
+          "optional": true,
+          "example": "[\"SortByY\",\"BuildingView\"]"
+        },
+        "dryRun": {
+          "type": "bool",
+          "required": false,
+          "optional": true,
+          "default": false,
+          "example": null
+        }
+      },
+      "example": null
+    }
+  }
+}

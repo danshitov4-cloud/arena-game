@@ -1,0 +1,5379 @@
+{
+  "version": 1,
+  "snapshots": [
+    {
+      "Id": "5b072c2017b74c4d92ff11f4ac7c58d9",
+      "Name": "before_player_hierarchy",
+      "CreatedUtc": "2026-06-28T14:17:00.2484616Z",
+      "Entries": [
+        {
+          "ComponentInstanceId": 69008,
+          "Type": "UnityEngine.AudioListener",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 69010,
+          "Type": "UnityEngine.Camera",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 69106,
+          "Type": "UnityEngine.Canvas",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 69032,
+          "Type": "UnityEngine.Light",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 69130,
+          "Type": "UnityEngine.InputSystem.PlayerInput",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 68988,
+          "Type": "UnityEngine.UI.Outline",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 69080,
+          "Type": "ArenaGame.GameManager",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 69182,
+          "Type": "ArenaGame.WaveManager",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 69030,
+          "Type": "UnityEngine.Rendering.Universal.UniversalAdditionalLightData",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 69070,
+          "Type": "UnityEngine.UI.Outline",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 68940,
+          "Type": "UnityEngine.UI.Outline",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 69192,
+          "Type": "UnityEngine.UI.Text",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 69072,
+          "Type": "UnityEngine.UI.Text",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 69054,
+          "Type": "ArenaGame.UpgradeSystem",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 68942,
+          "Type": "UnityEngine.UI.Text",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 69016,
+          "Type": "ArenaGame.CameraController",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 69190,
+          "Type": "UnityEngine.UI.Outline",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 69104,
+          "Type": "UnityEngine.UI.CanvasScaler",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 69014,
+          "Type": "UnityEngine.Rendering.Universal.UniversalAdditionalCameraData",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 69152,
+          "Type": "ArenaGame.UIManager",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 69118,
+          "Type": "ArenaGame.PlayerController",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 69212,
+          "Type": "UnityEngine.InputSystem.UI.InputSystemUIInputModule",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 69102,
+          "Type": "UnityEngine.UI.GraphicRaycaster",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 68990,
+          "Type": "UnityEngine.UI.Text",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 69208,
+          "Type": "UnityEngine.EventSystems.EventSystem",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 68952,
+          "Type": "UnityEngine.BoxCollider",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 69200,
+          "Type": "UnityEngine.BoxCollider",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 69000,
+          "Type": "UnityEngine.BoxCollider",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 68970,
+          "Type": "UnityEngine.BoxCollider",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 69124,
+          "Type": "UnityEngine.BoxCollider",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 69120,
+          "Type": "UnityEngine.CharacterController",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 69144,
+          "Type": "UnityEngine.MeshCollider",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 68950,
+          "Type": "UnityEngine.MeshRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 68968,
+          "Type": "UnityEngine.MeshRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 69122,
+          "Type": "UnityEngine.MeshRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 68998,
+          "Type": "UnityEngine.MeshRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 69142,
+          "Type": "UnityEngine.MeshRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 69198,
+          "Type": "UnityEngine.MeshRenderer",
+          "Enabled": true
+        }
+      ]
+    },
+    {
+      "Id": "c3a613c9e1f947efae1a381d31a3622d",
+      "Name": "wf-test-auto",
+      "CreatedUtc": "2026-03-30T13:45:02.4562449Z",
+      "Entries": [
+        {
+          "ComponentInstanceId": 46600,
+          "Type": "UnityEngine.AudioListener",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46604,
+          "Type": "UnityEngine.Camera",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1364,
+          "Type": "UnityEngine.Canvas",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1338,
+          "Type": "UnityEngine.Canvas",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46646,
+          "Type": "UnityEngine.Canvas",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1352,
+          "Type": "BuildingView",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": 46618,
+          "Type": "UnityEngine.InputSystem.UI.InputSystemUIInputModule",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46626,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": -1350,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": -1342,
+          "Type": "UnityEngine.UI.GraphicRaycaster",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1366,
+          "Type": "UnityEngine.UI.CanvasScaler",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1340,
+          "Type": "UnityEngine.UI.CanvasScaler",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1368,
+          "Type": "UnityEngine.UI.GraphicRaycaster",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46644,
+          "Type": "UnityEngine.UI.CanvasScaler",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46602,
+          "Type": "UnityEngine.Rendering.Universal.UniversalAdditionalCameraData",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1324,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": 46652,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": 46634,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": 46610,
+          "Type": "UnityEngine.Rendering.Universal.Light2D",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46620,
+          "Type": "UnityEngine.EventSystems.EventSystem",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46642,
+          "Type": "UnityEngine.UI.GraphicRaycaster",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1326,
+          "Type": "BuildingView",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": -1348,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1322,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46636,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46628,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46654,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1358,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46664,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46586,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46592,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1332,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        }
+      ]
+    },
+    {
+      "Id": "0124fec6f9c445a2b60cee019c8faeef",
+      "Name": "before-snap-apply",
+      "CreatedUtc": "2026-03-30T13:39:38.0090201Z",
+      "Entries": [
+        {
+          "ComponentInstanceId": 46600,
+          "Type": "UnityEngine.AudioListener",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46604,
+          "Type": "UnityEngine.Camera",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1364,
+          "Type": "UnityEngine.Canvas",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1338,
+          "Type": "UnityEngine.Canvas",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46646,
+          "Type": "UnityEngine.Canvas",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1352,
+          "Type": "BuildingView",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": 46618,
+          "Type": "UnityEngine.InputSystem.UI.InputSystemUIInputModule",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46626,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": -1350,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": -1342,
+          "Type": "UnityEngine.UI.GraphicRaycaster",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1366,
+          "Type": "UnityEngine.UI.CanvasScaler",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1340,
+          "Type": "UnityEngine.UI.CanvasScaler",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1368,
+          "Type": "UnityEngine.UI.GraphicRaycaster",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46644,
+          "Type": "UnityEngine.UI.CanvasScaler",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46602,
+          "Type": "UnityEngine.Rendering.Universal.UniversalAdditionalCameraData",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1324,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": 46652,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": 46634,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": 46610,
+          "Type": "UnityEngine.Rendering.Universal.Light2D",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46620,
+          "Type": "UnityEngine.EventSystems.EventSystem",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46642,
+          "Type": "UnityEngine.UI.GraphicRaycaster",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1326,
+          "Type": "BuildingView",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": -1348,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1322,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46636,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46628,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46654,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1358,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46664,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46586,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46592,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1332,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        }
+      ]
+    },
+    {
+      "Id": "82caec6ae6d04892a3c5487e2602b47d",
+      "Name": "before-snap",
+      "CreatedUtc": "2026-03-30T13:38:42.7920858Z",
+      "Entries": [
+        {
+          "ComponentInstanceId": 46600,
+          "Type": "UnityEngine.AudioListener",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46604,
+          "Type": "UnityEngine.Camera",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1364,
+          "Type": "UnityEngine.Canvas",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1338,
+          "Type": "UnityEngine.Canvas",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46646,
+          "Type": "UnityEngine.Canvas",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1352,
+          "Type": "BuildingView",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": 46618,
+          "Type": "UnityEngine.InputSystem.UI.InputSystemUIInputModule",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46626,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": -1350,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": -1342,
+          "Type": "UnityEngine.UI.GraphicRaycaster",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1366,
+          "Type": "UnityEngine.UI.CanvasScaler",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1340,
+          "Type": "UnityEngine.UI.CanvasScaler",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1368,
+          "Type": "UnityEngine.UI.GraphicRaycaster",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46644,
+          "Type": "UnityEngine.UI.CanvasScaler",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46602,
+          "Type": "UnityEngine.Rendering.Universal.UniversalAdditionalCameraData",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1324,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": 46652,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": 46634,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": 46610,
+          "Type": "UnityEngine.Rendering.Universal.Light2D",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46620,
+          "Type": "UnityEngine.EventSystems.EventSystem",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46642,
+          "Type": "UnityEngine.UI.GraphicRaycaster",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1326,
+          "Type": "BuildingView",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": -1348,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1322,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46636,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46628,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46654,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1358,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46664,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46586,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46592,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1332,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        }
+      ]
+    },
+    {
+      "Id": "ef126466e1a745d7ae44f765a6caf19f",
+      "Name": "before-snap-apply",
+      "CreatedUtc": "2026-03-30T13:26:21.9778906Z",
+      "Entries": [
+        {
+          "ComponentInstanceId": 46600,
+          "Type": "UnityEngine.AudioListener",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46604,
+          "Type": "UnityEngine.Camera",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1364,
+          "Type": "UnityEngine.Canvas",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1338,
+          "Type": "UnityEngine.Canvas",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46646,
+          "Type": "UnityEngine.Canvas",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1352,
+          "Type": "BuildingView",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": 46618,
+          "Type": "UnityEngine.InputSystem.UI.InputSystemUIInputModule",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46626,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": -1350,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": -1342,
+          "Type": "UnityEngine.UI.GraphicRaycaster",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1366,
+          "Type": "UnityEngine.UI.CanvasScaler",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1340,
+          "Type": "UnityEngine.UI.CanvasScaler",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1368,
+          "Type": "UnityEngine.UI.GraphicRaycaster",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46644,
+          "Type": "UnityEngine.UI.CanvasScaler",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46602,
+          "Type": "UnityEngine.Rendering.Universal.UniversalAdditionalCameraData",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1324,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": 46652,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": 46634,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": 46610,
+          "Type": "UnityEngine.Rendering.Universal.Light2D",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46620,
+          "Type": "UnityEngine.EventSystems.EventSystem",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46642,
+          "Type": "UnityEngine.UI.GraphicRaycaster",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1326,
+          "Type": "BuildingView",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": -1348,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1322,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46636,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46628,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46654,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1358,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46664,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46586,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46592,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1332,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        }
+      ]
+    },
+    {
+      "Id": "491f077ffab04554a093a30d8d1e95b6",
+      "Name": "before-snap",
+      "CreatedUtc": "2026-03-30T13:25:59.101607Z",
+      "Entries": [
+        {
+          "ComponentInstanceId": 46600,
+          "Type": "UnityEngine.AudioListener",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46604,
+          "Type": "UnityEngine.Camera",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1364,
+          "Type": "UnityEngine.Canvas",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1338,
+          "Type": "UnityEngine.Canvas",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46646,
+          "Type": "UnityEngine.Canvas",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1352,
+          "Type": "BuildingView",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": 46618,
+          "Type": "UnityEngine.InputSystem.UI.InputSystemUIInputModule",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46626,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": -1350,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": -1342,
+          "Type": "UnityEngine.UI.GraphicRaycaster",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1366,
+          "Type": "UnityEngine.UI.CanvasScaler",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1340,
+          "Type": "UnityEngine.UI.CanvasScaler",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1368,
+          "Type": "UnityEngine.UI.GraphicRaycaster",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46644,
+          "Type": "UnityEngine.UI.CanvasScaler",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46602,
+          "Type": "UnityEngine.Rendering.Universal.UniversalAdditionalCameraData",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1324,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": 46652,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": 46634,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": 46610,
+          "Type": "UnityEngine.Rendering.Universal.Light2D",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46620,
+          "Type": "UnityEngine.EventSystems.EventSystem",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46642,
+          "Type": "UnityEngine.UI.GraphicRaycaster",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1326,
+          "Type": "BuildingView",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": -1348,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1322,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46636,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46628,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46654,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1358,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46664,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46586,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46592,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1332,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        }
+      ]
+    },
+    {
+      "Id": "326104f1df5c49ca9f38883880d8aef6",
+      "Name": "grid-before-apply",
+      "CreatedUtc": "2026-03-30T12:33:51.6414366Z",
+      "Entries": [
+        {
+          "ComponentInstanceId": 46600,
+          "Type": "UnityEngine.AudioListener",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46604,
+          "Type": "UnityEngine.Camera",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1364,
+          "Type": "UnityEngine.Canvas",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1338,
+          "Type": "UnityEngine.Canvas",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46646,
+          "Type": "UnityEngine.Canvas",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46610,
+          "Type": "UnityEngine.Rendering.Universal.Light2D",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1352,
+          "Type": "BuildingView",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": -1368,
+          "Type": "UnityEngine.UI.GraphicRaycaster",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1324,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": 46602,
+          "Type": "UnityEngine.Rendering.Universal.UniversalAdditionalCameraData",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46652,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": 46634,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": 46620,
+          "Type": "UnityEngine.EventSystems.EventSystem",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1326,
+          "Type": "BuildingView",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": -1350,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": 46626,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": -1340,
+          "Type": "UnityEngine.UI.CanvasScaler",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1342,
+          "Type": "UnityEngine.UI.GraphicRaycaster",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46618,
+          "Type": "UnityEngine.InputSystem.UI.InputSystemUIInputModule",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46644,
+          "Type": "UnityEngine.UI.CanvasScaler",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46642,
+          "Type": "UnityEngine.UI.GraphicRaycaster",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1366,
+          "Type": "UnityEngine.UI.CanvasScaler",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1348,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46628,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46654,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46636,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1322,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46592,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46586,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46664,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1358,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1332,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        }
+      ]
+    },
+    {
+      "Id": "0f54de60856945f5893fbe0b48210a0a",
+      "Name": "grid-before",
+      "CreatedUtc": "2026-03-30T12:33:15.2198834Z",
+      "Entries": [
+        {
+          "ComponentInstanceId": 46600,
+          "Type": "UnityEngine.AudioListener",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46604,
+          "Type": "UnityEngine.Camera",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1364,
+          "Type": "UnityEngine.Canvas",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1338,
+          "Type": "UnityEngine.Canvas",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46646,
+          "Type": "UnityEngine.Canvas",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46610,
+          "Type": "UnityEngine.Rendering.Universal.Light2D",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1352,
+          "Type": "BuildingView",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": -1368,
+          "Type": "UnityEngine.UI.GraphicRaycaster",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1324,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": 46602,
+          "Type": "UnityEngine.Rendering.Universal.UniversalAdditionalCameraData",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46652,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": 46634,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": 46620,
+          "Type": "UnityEngine.EventSystems.EventSystem",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1326,
+          "Type": "BuildingView",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": -1350,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": 46626,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": -1340,
+          "Type": "UnityEngine.UI.CanvasScaler",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1342,
+          "Type": "UnityEngine.UI.GraphicRaycaster",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46618,
+          "Type": "UnityEngine.InputSystem.UI.InputSystemUIInputModule",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46644,
+          "Type": "UnityEngine.UI.CanvasScaler",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46642,
+          "Type": "UnityEngine.UI.GraphicRaycaster",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1366,
+          "Type": "UnityEngine.UI.CanvasScaler",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1348,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46628,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46654,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46636,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1322,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46592,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46586,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46664,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1358,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1332,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        }
+      ]
+    },
+    {
+      "Id": "033347039fd447a4ae97f1c7f1bf1529",
+      "Name": "wf-test-sched",
+      "CreatedUtc": "2026-03-30T12:30:29.6410096Z",
+      "Entries": [
+        {
+          "ComponentInstanceId": 46600,
+          "Type": "UnityEngine.AudioListener",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46604,
+          "Type": "UnityEngine.Camera",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1364,
+          "Type": "UnityEngine.Canvas",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1338,
+          "Type": "UnityEngine.Canvas",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46646,
+          "Type": "UnityEngine.Canvas",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46610,
+          "Type": "UnityEngine.Rendering.Universal.Light2D",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1352,
+          "Type": "BuildingView",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": -1368,
+          "Type": "UnityEngine.UI.GraphicRaycaster",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1324,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": 46602,
+          "Type": "UnityEngine.Rendering.Universal.UniversalAdditionalCameraData",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46652,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": 46634,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": 46620,
+          "Type": "UnityEngine.EventSystems.EventSystem",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1326,
+          "Type": "BuildingView",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": -1350,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": 46626,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": -1340,
+          "Type": "UnityEngine.UI.CanvasScaler",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1342,
+          "Type": "UnityEngine.UI.GraphicRaycaster",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46618,
+          "Type": "UnityEngine.InputSystem.UI.InputSystemUIInputModule",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46644,
+          "Type": "UnityEngine.UI.CanvasScaler",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46642,
+          "Type": "UnityEngine.UI.GraphicRaycaster",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1366,
+          "Type": "UnityEngine.UI.CanvasScaler",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1348,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46628,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46654,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46636,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1322,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46592,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46586,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46664,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1358,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1332,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        }
+      ]
+    },
+    {
+      "Id": "bdc724a3838d46f38292a97244437c99",
+      "Name": "wf-test-dry",
+      "CreatedUtc": "2026-03-30T12:30:02.6991325Z",
+      "Entries": [
+        {
+          "ComponentInstanceId": 46600,
+          "Type": "UnityEngine.AudioListener",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46604,
+          "Type": "UnityEngine.Camera",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1364,
+          "Type": "UnityEngine.Canvas",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1338,
+          "Type": "UnityEngine.Canvas",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46646,
+          "Type": "UnityEngine.Canvas",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46610,
+          "Type": "UnityEngine.Rendering.Universal.Light2D",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1352,
+          "Type": "BuildingView",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": -1368,
+          "Type": "UnityEngine.UI.GraphicRaycaster",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1324,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": 46602,
+          "Type": "UnityEngine.Rendering.Universal.UniversalAdditionalCameraData",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46652,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": 46634,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": 46620,
+          "Type": "UnityEngine.EventSystems.EventSystem",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1326,
+          "Type": "BuildingView",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": -1350,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": 46626,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": -1340,
+          "Type": "UnityEngine.UI.CanvasScaler",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1342,
+          "Type": "UnityEngine.UI.GraphicRaycaster",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46618,
+          "Type": "UnityEngine.InputSystem.UI.InputSystemUIInputModule",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46644,
+          "Type": "UnityEngine.UI.CanvasScaler",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46642,
+          "Type": "UnityEngine.UI.GraphicRaycaster",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1366,
+          "Type": "UnityEngine.UI.CanvasScaler",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1348,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46628,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46654,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46636,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1322,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46592,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46586,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46664,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1358,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1332,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        }
+      ]
+    },
+    {
+      "Id": "7594a32f0ae14de0af674edf0cff1cc6",
+      "Name": "before-offset",
+      "CreatedUtc": "2026-03-30T12:12:51.1547704Z",
+      "Entries": [
+        {
+          "ComponentInstanceId": 46600,
+          "Type": "UnityEngine.AudioListener",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46604,
+          "Type": "UnityEngine.Camera",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1364,
+          "Type": "UnityEngine.Canvas",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1338,
+          "Type": "UnityEngine.Canvas",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46646,
+          "Type": "UnityEngine.Canvas",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46610,
+          "Type": "UnityEngine.Rendering.Universal.Light2D",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1352,
+          "Type": "BuildingView",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": -1368,
+          "Type": "UnityEngine.UI.GraphicRaycaster",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1324,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": 46602,
+          "Type": "UnityEngine.Rendering.Universal.UniversalAdditionalCameraData",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46652,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": 46634,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": 46620,
+          "Type": "UnityEngine.EventSystems.EventSystem",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1326,
+          "Type": "BuildingView",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": -1350,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": 46626,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": -1340,
+          "Type": "UnityEngine.UI.CanvasScaler",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1342,
+          "Type": "UnityEngine.UI.GraphicRaycaster",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46618,
+          "Type": "UnityEngine.InputSystem.UI.InputSystemUIInputModule",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46644,
+          "Type": "UnityEngine.UI.CanvasScaler",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46642,
+          "Type": "UnityEngine.UI.GraphicRaycaster",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1366,
+          "Type": "UnityEngine.UI.CanvasScaler",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1348,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46628,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46654,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46636,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1322,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46592,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46586,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46664,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1358,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1332,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        }
+      ]
+    },
+    {
+      "Id": "d23955d9bfb341d2a255d5903fb71d5a",
+      "Name": "before-offset-sched",
+      "CreatedUtc": "2026-03-30T12:02:28.6478845Z",
+      "Entries": [
+        {
+          "ComponentInstanceId": 46600,
+          "Type": "UnityEngine.AudioListener",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46604,
+          "Type": "UnityEngine.Camera",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1364,
+          "Type": "UnityEngine.Canvas",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1338,
+          "Type": "UnityEngine.Canvas",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46646,
+          "Type": "UnityEngine.Canvas",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46610,
+          "Type": "UnityEngine.Rendering.Universal.Light2D",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1352,
+          "Type": "BuildingView",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": -1368,
+          "Type": "UnityEngine.UI.GraphicRaycaster",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1324,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": 46602,
+          "Type": "UnityEngine.Rendering.Universal.UniversalAdditionalCameraData",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46652,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": 46634,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": 46620,
+          "Type": "UnityEngine.EventSystems.EventSystem",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1326,
+          "Type": "BuildingView",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": -1350,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": 46626,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": -1340,
+          "Type": "UnityEngine.UI.CanvasScaler",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1342,
+          "Type": "UnityEngine.UI.GraphicRaycaster",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46618,
+          "Type": "UnityEngine.InputSystem.UI.InputSystemUIInputModule",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46644,
+          "Type": "UnityEngine.UI.CanvasScaler",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46642,
+          "Type": "UnityEngine.UI.GraphicRaycaster",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1366,
+          "Type": "UnityEngine.UI.CanvasScaler",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1348,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46628,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46654,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46636,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1322,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46592,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46586,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46664,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1358,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1332,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        }
+      ]
+    },
+    {
+      "Id": "d13b2a6f82654da7abe847bc713e759f",
+      "Name": "before-offset-sched",
+      "CreatedUtc": "2026-03-30T12:01:56.5693649Z",
+      "Entries": [
+        {
+          "ComponentInstanceId": 46600,
+          "Type": "UnityEngine.AudioListener",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46604,
+          "Type": "UnityEngine.Camera",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1364,
+          "Type": "UnityEngine.Canvas",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1338,
+          "Type": "UnityEngine.Canvas",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46646,
+          "Type": "UnityEngine.Canvas",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46610,
+          "Type": "UnityEngine.Rendering.Universal.Light2D",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1352,
+          "Type": "BuildingView",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": -1368,
+          "Type": "UnityEngine.UI.GraphicRaycaster",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1324,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": 46602,
+          "Type": "UnityEngine.Rendering.Universal.UniversalAdditionalCameraData",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46652,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": 46634,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": 46620,
+          "Type": "UnityEngine.EventSystems.EventSystem",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1326,
+          "Type": "BuildingView",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": -1350,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": 46626,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": -1340,
+          "Type": "UnityEngine.UI.CanvasScaler",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1342,
+          "Type": "UnityEngine.UI.GraphicRaycaster",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46618,
+          "Type": "UnityEngine.InputSystem.UI.InputSystemUIInputModule",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46644,
+          "Type": "UnityEngine.UI.CanvasScaler",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46642,
+          "Type": "UnityEngine.UI.GraphicRaycaster",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1366,
+          "Type": "UnityEngine.UI.CanvasScaler",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1348,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46628,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46654,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46636,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1322,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46592,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46586,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46664,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1358,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1332,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        }
+      ]
+    },
+    {
+      "Id": "dc39e5ac8f96455a9ab4fb4632e5c5c2",
+      "Name": "before-offset-sched",
+      "CreatedUtc": "2026-03-30T12:01:41.20286Z",
+      "Entries": [
+        {
+          "ComponentInstanceId": 46600,
+          "Type": "UnityEngine.AudioListener",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46604,
+          "Type": "UnityEngine.Camera",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1364,
+          "Type": "UnityEngine.Canvas",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1338,
+          "Type": "UnityEngine.Canvas",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46646,
+          "Type": "UnityEngine.Canvas",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46610,
+          "Type": "UnityEngine.Rendering.Universal.Light2D",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1352,
+          "Type": "BuildingView",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": -1368,
+          "Type": "UnityEngine.UI.GraphicRaycaster",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1324,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": 46602,
+          "Type": "UnityEngine.Rendering.Universal.UniversalAdditionalCameraData",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46652,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": 46634,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": 46620,
+          "Type": "UnityEngine.EventSystems.EventSystem",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1326,
+          "Type": "BuildingView",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": -1350,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": 46626,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": -1340,
+          "Type": "UnityEngine.UI.CanvasScaler",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1342,
+          "Type": "UnityEngine.UI.GraphicRaycaster",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46618,
+          "Type": "UnityEngine.InputSystem.UI.InputSystemUIInputModule",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46644,
+          "Type": "UnityEngine.UI.CanvasScaler",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46642,
+          "Type": "UnityEngine.UI.GraphicRaycaster",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1366,
+          "Type": "UnityEngine.UI.CanvasScaler",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1348,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46628,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46654,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46636,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1322,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46592,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46586,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46664,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1358,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1332,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        }
+      ]
+    },
+    {
+      "Id": "15c092b444b84b06ad6dc542fca5f97e",
+      "Name": "before-offset-test",
+      "CreatedUtc": "2026-03-30T11:57:14.0064476Z",
+      "Entries": [
+        {
+          "ComponentInstanceId": 46600,
+          "Type": "UnityEngine.AudioListener",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46604,
+          "Type": "UnityEngine.Camera",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1364,
+          "Type": "UnityEngine.Canvas",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1338,
+          "Type": "UnityEngine.Canvas",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46646,
+          "Type": "UnityEngine.Canvas",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46610,
+          "Type": "UnityEngine.Rendering.Universal.Light2D",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1352,
+          "Type": "BuildingView",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": -1368,
+          "Type": "UnityEngine.UI.GraphicRaycaster",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1324,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": 46602,
+          "Type": "UnityEngine.Rendering.Universal.UniversalAdditionalCameraData",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46652,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": 46634,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": 46620,
+          "Type": "UnityEngine.EventSystems.EventSystem",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1326,
+          "Type": "BuildingView",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": -1350,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": 46626,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": -1340,
+          "Type": "UnityEngine.UI.CanvasScaler",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1342,
+          "Type": "UnityEngine.UI.GraphicRaycaster",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46618,
+          "Type": "UnityEngine.InputSystem.UI.InputSystemUIInputModule",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46644,
+          "Type": "UnityEngine.UI.CanvasScaler",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46642,
+          "Type": "UnityEngine.UI.GraphicRaycaster",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1366,
+          "Type": "UnityEngine.UI.CanvasScaler",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1348,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46628,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46654,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46636,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1322,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46592,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46586,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46664,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1358,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1332,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        }
+      ]
+    },
+    {
+      "Id": "af11e7c4f02c47c08367420447295c8c",
+      "Name": "before-offset",
+      "CreatedUtc": "2026-03-30T11:30:50.0689248Z",
+      "Entries": [
+        {
+          "ComponentInstanceId": 46600,
+          "Type": "UnityEngine.AudioListener",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46604,
+          "Type": "UnityEngine.Camera",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1364,
+          "Type": "UnityEngine.Canvas",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1338,
+          "Type": "UnityEngine.Canvas",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46646,
+          "Type": "UnityEngine.Canvas",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46626,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": 46610,
+          "Type": "UnityEngine.Rendering.Universal.Light2D",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1352,
+          "Type": "BuildingView",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": -1340,
+          "Type": "UnityEngine.UI.CanvasScaler",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1342,
+          "Type": "UnityEngine.UI.GraphicRaycaster",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1368,
+          "Type": "UnityEngine.UI.GraphicRaycaster",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1324,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": 46602,
+          "Type": "UnityEngine.Rendering.Universal.UniversalAdditionalCameraData",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46652,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": 46634,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": 46618,
+          "Type": "UnityEngine.InputSystem.UI.InputSystemUIInputModule",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46644,
+          "Type": "UnityEngine.UI.CanvasScaler",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46620,
+          "Type": "UnityEngine.EventSystems.EventSystem",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46642,
+          "Type": "UnityEngine.UI.GraphicRaycaster",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1366,
+          "Type": "UnityEngine.UI.CanvasScaler",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1326,
+          "Type": "BuildingView",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": -1350,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": -1348,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46628,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46654,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46636,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1322,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46592,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46586,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46664,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1358,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1332,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        }
+      ]
+    },
+    {
+      "Id": "7dd9e3ff8c124df19c786dc669f59d79",
+      "Name": "before-test",
+      "CreatedUtc": "2026-03-25T16:41:50.2404452Z",
+      "Entries": [
+        {
+          "ComponentInstanceId": 46600,
+          "Type": "UnityEngine.AudioListener",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46604,
+          "Type": "UnityEngine.Camera",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46646,
+          "Type": "UnityEngine.Canvas",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1364,
+          "Type": "UnityEngine.Canvas",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1338,
+          "Type": "UnityEngine.Canvas",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1326,
+          "Type": "BuildingView",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": 46618,
+          "Type": "UnityEngine.InputSystem.UI.InputSystemUIInputModule",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1342,
+          "Type": "UnityEngine.UI.GraphicRaycaster",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46626,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": 46610,
+          "Type": "UnityEngine.Rendering.Universal.Light2D",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1324,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": 46620,
+          "Type": "UnityEngine.EventSystems.EventSystem",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1352,
+          "Type": "BuildingView",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": 46652,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": -1368,
+          "Type": "UnityEngine.UI.GraphicRaycaster",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46634,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": -1350,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": -1366,
+          "Type": "UnityEngine.UI.CanvasScaler",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1340,
+          "Type": "UnityEngine.UI.CanvasScaler",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46644,
+          "Type": "UnityEngine.UI.CanvasScaler",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46642,
+          "Type": "UnityEngine.UI.GraphicRaycaster",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46602,
+          "Type": "UnityEngine.Rendering.Universal.UniversalAdditionalCameraData",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1322,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1348,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46628,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46654,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46636,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1358,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46592,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46586,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46664,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1332,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        }
+      ]
+    },
+    {
+      "Id": "f7732bde7b35453d977877ed4815329a",
+      "Name": "before-ghost",
+      "CreatedUtc": "2026-03-24T14:18:19.142488Z",
+      "Entries": [
+        {
+          "ComponentInstanceId": 47036,
+          "Type": "UnityEngine.AudioListener",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 47040,
+          "Type": "UnityEngine.Camera",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 47082,
+          "Type": "UnityEngine.Canvas",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1338,
+          "Type": "UnityEngine.Canvas",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1364,
+          "Type": "UnityEngine.Canvas",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1326,
+          "Type": "BuildingView",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": -1342,
+          "Type": "UnityEngine.UI.GraphicRaycaster",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 47038,
+          "Type": "UnityEngine.Rendering.Universal.UniversalAdditionalCameraData",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1366,
+          "Type": "UnityEngine.UI.CanvasScaler",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 47078,
+          "Type": "UnityEngine.UI.GraphicRaycaster",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1340,
+          "Type": "UnityEngine.UI.CanvasScaler",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 47080,
+          "Type": "UnityEngine.UI.CanvasScaler",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1368,
+          "Type": "UnityEngine.UI.GraphicRaycaster",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 47070,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": 47056,
+          "Type": "UnityEngine.EventSystems.EventSystem",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1352,
+          "Type": "BuildingView",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": -1324,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": 47046,
+          "Type": "UnityEngine.Rendering.Universal.Light2D",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 47088,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": -1350,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": 47062,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": 47054,
+          "Type": "UnityEngine.InputSystem.UI.InputSystemUIInputModule",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1322,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 47072,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 47090,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 47064,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1348,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 47028,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 47022,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1358,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1332,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 47100,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        }
+      ]
+    },
+    {
+      "Id": "f579d549714c49a6b28c1a17ce4fcefb",
+      "Name": "before-ghost",
+      "CreatedUtc": "2026-03-24T14:09:49.1542842Z",
+      "Entries": [
+        {
+          "ComponentInstanceId": 47036,
+          "Type": "UnityEngine.AudioListener",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 47040,
+          "Type": "UnityEngine.Camera",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 47082,
+          "Type": "UnityEngine.Canvas",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1338,
+          "Type": "UnityEngine.Canvas",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1364,
+          "Type": "UnityEngine.Canvas",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1326,
+          "Type": "BuildingView",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": -1342,
+          "Type": "UnityEngine.UI.GraphicRaycaster",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 47038,
+          "Type": "UnityEngine.Rendering.Universal.UniversalAdditionalCameraData",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1366,
+          "Type": "UnityEngine.UI.CanvasScaler",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 47078,
+          "Type": "UnityEngine.UI.GraphicRaycaster",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1340,
+          "Type": "UnityEngine.UI.CanvasScaler",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 47080,
+          "Type": "UnityEngine.UI.CanvasScaler",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1368,
+          "Type": "UnityEngine.UI.GraphicRaycaster",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 47070,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": 47056,
+          "Type": "UnityEngine.EventSystems.EventSystem",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1352,
+          "Type": "BuildingView",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": -1324,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": 47046,
+          "Type": "UnityEngine.Rendering.Universal.Light2D",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 47088,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": -1350,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": 47062,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": 47054,
+          "Type": "UnityEngine.InputSystem.UI.InputSystemUIInputModule",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1322,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 47072,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 47090,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 47064,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1348,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 47028,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 47022,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1358,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1332,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 47100,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        }
+      ]
+    },
+    {
+      "Id": "4a68bf7e3094400ea888371664fef35d",
+      "Name": "before-ghost",
+      "CreatedUtc": "2026-03-24T12:31:17.0487877Z",
+      "Entries": [
+        {
+          "ComponentInstanceId": 46546,
+          "Type": "UnityEngine.AudioListener",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46550,
+          "Type": "UnityEngine.Camera",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46592,
+          "Type": "UnityEngine.Canvas",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1302,
+          "Type": "UnityEngine.Canvas",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1328,
+          "Type": "UnityEngine.Canvas",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46580,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": 46572,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": -1288,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": 46564,
+          "Type": "UnityEngine.InputSystem.UI.InputSystemUIInputModule",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1314,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": -1330,
+          "Type": "UnityEngine.UI.CanvasScaler",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1290,
+          "Type": "BuildingView",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": -1306,
+          "Type": "UnityEngine.UI.GraphicRaycaster",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1304,
+          "Type": "UnityEngine.UI.CanvasScaler",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1316,
+          "Type": "BuildingView",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": 46566,
+          "Type": "UnityEngine.EventSystems.EventSystem",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46588,
+          "Type": "UnityEngine.UI.GraphicRaycaster",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46556,
+          "Type": "UnityEngine.Rendering.Universal.Light2D",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1332,
+          "Type": "UnityEngine.UI.GraphicRaycaster",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46548,
+          "Type": "UnityEngine.Rendering.Universal.UniversalAdditionalCameraData",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46598,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": 46590,
+          "Type": "UnityEngine.UI.CanvasScaler",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46574,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1286,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46582,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1312,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46600,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1322,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46538,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46532,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46610,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1296,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        }
+      ]
+    },
+    {
+      "Id": "252dff965c784c9583a080f89ef0a3c3",
+      "Name": "test-btn-20260324-122537",
+      "CreatedUtc": "2026-03-24T09:25:37.8410574Z",
+      "Entries": [
+        {
+          "ComponentInstanceId": 46546,
+          "Type": "UnityEngine.AudioListener",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46550,
+          "Type": "UnityEngine.Camera",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1302,
+          "Type": "UnityEngine.Canvas",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1328,
+          "Type": "UnityEngine.Canvas",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46592,
+          "Type": "UnityEngine.Canvas",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46564,
+          "Type": "UnityEngine.InputSystem.UI.InputSystemUIInputModule",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46598,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": -1330,
+          "Type": "UnityEngine.UI.CanvasScaler",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46548,
+          "Type": "UnityEngine.Rendering.Universal.UniversalAdditionalCameraData",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46580,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": -1306,
+          "Type": "UnityEngine.UI.GraphicRaycaster",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1332,
+          "Type": "UnityEngine.UI.GraphicRaycaster",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1290,
+          "Type": "BuildingView",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": -1288,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": -1316,
+          "Type": "BuildingView",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": -1304,
+          "Type": "UnityEngine.UI.CanvasScaler",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46572,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": -1314,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": 46588,
+          "Type": "UnityEngine.UI.GraphicRaycaster",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46556,
+          "Type": "UnityEngine.Rendering.Universal.Light2D",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46590,
+          "Type": "UnityEngine.UI.CanvasScaler",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46566,
+          "Type": "UnityEngine.EventSystems.EventSystem",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46600,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46582,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1286,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46574,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1312,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46538,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1322,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46610,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46532,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1296,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        }
+      ]
+    },
+    {
+      "Id": "6e1193e136834fc0b0c5084f6bc1f651",
+      "Name": "cs-orch-ru-20260324-122524",
+      "CreatedUtc": "2026-03-24T09:25:24.2602642Z",
+      "Entries": [
+        {
+          "ComponentInstanceId": 46546,
+          "Type": "UnityEngine.AudioListener",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46550,
+          "Type": "UnityEngine.Camera",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1302,
+          "Type": "UnityEngine.Canvas",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1328,
+          "Type": "UnityEngine.Canvas",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46592,
+          "Type": "UnityEngine.Canvas",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46564,
+          "Type": "UnityEngine.InputSystem.UI.InputSystemUIInputModule",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46598,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": -1330,
+          "Type": "UnityEngine.UI.CanvasScaler",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46548,
+          "Type": "UnityEngine.Rendering.Universal.UniversalAdditionalCameraData",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46580,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": -1306,
+          "Type": "UnityEngine.UI.GraphicRaycaster",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1332,
+          "Type": "UnityEngine.UI.GraphicRaycaster",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1290,
+          "Type": "BuildingView",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": -1288,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": -1316,
+          "Type": "BuildingView",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": -1304,
+          "Type": "UnityEngine.UI.CanvasScaler",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46572,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": -1314,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": 46588,
+          "Type": "UnityEngine.UI.GraphicRaycaster",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46556,
+          "Type": "UnityEngine.Rendering.Universal.Light2D",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46590,
+          "Type": "UnityEngine.UI.CanvasScaler",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46566,
+          "Type": "UnityEngine.EventSystems.EventSystem",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46600,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46582,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1286,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46574,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1312,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46538,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1322,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46610,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46532,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1296,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        }
+      ]
+    },
+    {
+      "Id": "ec5a0f9af0b947ca973c2253717d864a",
+      "Name": "test-btn-20260324-120405",
+      "CreatedUtc": "2026-03-24T09:04:05.2678861Z",
+      "Entries": [
+        {
+          "ComponentInstanceId": 46546,
+          "Type": "UnityEngine.AudioListener",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46550,
+          "Type": "UnityEngine.Camera",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1302,
+          "Type": "UnityEngine.Canvas",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1328,
+          "Type": "UnityEngine.Canvas",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46592,
+          "Type": "UnityEngine.Canvas",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46564,
+          "Type": "UnityEngine.InputSystem.UI.InputSystemUIInputModule",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46598,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": -1330,
+          "Type": "UnityEngine.UI.CanvasScaler",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46548,
+          "Type": "UnityEngine.Rendering.Universal.UniversalAdditionalCameraData",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46580,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": -1306,
+          "Type": "UnityEngine.UI.GraphicRaycaster",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1332,
+          "Type": "UnityEngine.UI.GraphicRaycaster",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1290,
+          "Type": "BuildingView",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": -1288,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": -1316,
+          "Type": "BuildingView",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": -1304,
+          "Type": "UnityEngine.UI.CanvasScaler",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46572,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": -1314,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": 46588,
+          "Type": "UnityEngine.UI.GraphicRaycaster",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46556,
+          "Type": "UnityEngine.Rendering.Universal.Light2D",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46590,
+          "Type": "UnityEngine.UI.CanvasScaler",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46566,
+          "Type": "UnityEngine.EventSystems.EventSystem",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46600,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46582,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1286,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46574,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1312,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46538,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1322,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46610,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46532,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1296,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        }
+      ]
+    },
+    {
+      "Id": "da35deb829274a93bd49c7cefc100cf7",
+      "Name": "cs-orch-ru-20260324-120350",
+      "CreatedUtc": "2026-03-24T09:03:50.7102971Z",
+      "Entries": [
+        {
+          "ComponentInstanceId": 46546,
+          "Type": "UnityEngine.AudioListener",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46550,
+          "Type": "UnityEngine.Camera",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1302,
+          "Type": "UnityEngine.Canvas",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1328,
+          "Type": "UnityEngine.Canvas",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46592,
+          "Type": "UnityEngine.Canvas",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46564,
+          "Type": "UnityEngine.InputSystem.UI.InputSystemUIInputModule",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46598,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": -1330,
+          "Type": "UnityEngine.UI.CanvasScaler",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46548,
+          "Type": "UnityEngine.Rendering.Universal.UniversalAdditionalCameraData",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46580,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": -1306,
+          "Type": "UnityEngine.UI.GraphicRaycaster",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1332,
+          "Type": "UnityEngine.UI.GraphicRaycaster",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1290,
+          "Type": "BuildingView",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": -1288,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": -1316,
+          "Type": "BuildingView",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": -1304,
+          "Type": "UnityEngine.UI.CanvasScaler",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46572,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": -1314,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": 46588,
+          "Type": "UnityEngine.UI.GraphicRaycaster",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46556,
+          "Type": "UnityEngine.Rendering.Universal.Light2D",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46590,
+          "Type": "UnityEngine.UI.CanvasScaler",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46566,
+          "Type": "UnityEngine.EventSystems.EventSystem",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46600,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46582,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1286,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46574,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1312,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46538,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1322,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46610,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46532,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1296,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        }
+      ]
+    },
+    {
+      "Id": "5392b28eed7444068df480f0b5932e71",
+      "Name": "cs-orch-ru-20260324-114828",
+      "CreatedUtc": "2026-03-24T08:48:28.5799184Z",
+      "Entries": [
+        {
+          "ComponentInstanceId": 46546,
+          "Type": "UnityEngine.AudioListener",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46550,
+          "Type": "UnityEngine.Camera",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1302,
+          "Type": "UnityEngine.Canvas",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1328,
+          "Type": "UnityEngine.Canvas",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46592,
+          "Type": "UnityEngine.Canvas",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46564,
+          "Type": "UnityEngine.InputSystem.UI.InputSystemUIInputModule",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46598,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": -1330,
+          "Type": "UnityEngine.UI.CanvasScaler",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46548,
+          "Type": "UnityEngine.Rendering.Universal.UniversalAdditionalCameraData",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46580,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": -1306,
+          "Type": "UnityEngine.UI.GraphicRaycaster",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1332,
+          "Type": "UnityEngine.UI.GraphicRaycaster",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1290,
+          "Type": "BuildingView",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": -1288,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": -1316,
+          "Type": "BuildingView",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": -1304,
+          "Type": "UnityEngine.UI.CanvasScaler",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46572,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": -1314,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": 46588,
+          "Type": "UnityEngine.UI.GraphicRaycaster",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46556,
+          "Type": "UnityEngine.Rendering.Universal.Light2D",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46590,
+          "Type": "UnityEngine.UI.CanvasScaler",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46566,
+          "Type": "UnityEngine.EventSystems.EventSystem",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46600,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46582,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1286,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46574,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1312,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46538,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1322,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46610,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46532,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1296,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        }
+      ]
+    },
+    {
+      "Id": "27e3fdcd9e214374997e06026fb982e7",
+      "Name": "cs-orch-20260317-200311",
+      "CreatedUtc": "2026-03-17T17:03:11.4246723Z",
+      "Entries": [
+        {
+          "ComponentInstanceId": 46542,
+          "Type": "UnityEngine.AudioListener",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46546,
+          "Type": "UnityEngine.Camera",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1302,
+          "Type": "UnityEngine.Canvas",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46588,
+          "Type": "UnityEngine.Canvas",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1328,
+          "Type": "UnityEngine.Canvas",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46552,
+          "Type": "UnityEngine.Rendering.Universal.Light2D",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46594,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": 46560,
+          "Type": "UnityEngine.InputSystem.UI.InputSystemUIInputModule",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46584,
+          "Type": "UnityEngine.UI.GraphicRaycaster",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46576,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": -1304,
+          "Type": "UnityEngine.UI.CanvasScaler",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1330,
+          "Type": "UnityEngine.UI.CanvasScaler",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46544,
+          "Type": "UnityEngine.Rendering.Universal.UniversalAdditionalCameraData",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1332,
+          "Type": "UnityEngine.UI.GraphicRaycaster",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46568,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": 46562,
+          "Type": "UnityEngine.EventSystems.EventSystem",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1316,
+          "Type": "BuildingView",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": -1306,
+          "Type": "UnityEngine.UI.GraphicRaycaster",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1288,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": -1314,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": 46586,
+          "Type": "UnityEngine.UI.CanvasScaler",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1290,
+          "Type": "BuildingView",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": 46596,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46578,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1286,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46570,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1312,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1296,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46606,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46528,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1322,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46534,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        }
+      ]
+    },
+    {
+      "Id": "ed42a6a542a74e77afef87fc1c0ddb04",
+      "Name": "cs-orch-20260317-200026",
+      "CreatedUtc": "2026-03-17T17:00:26.550824Z",
+      "Entries": [
+        {
+          "ComponentInstanceId": 46542,
+          "Type": "UnityEngine.AudioListener",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46546,
+          "Type": "UnityEngine.Camera",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1302,
+          "Type": "UnityEngine.Canvas",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46588,
+          "Type": "UnityEngine.Canvas",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1328,
+          "Type": "UnityEngine.Canvas",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46552,
+          "Type": "UnityEngine.Rendering.Universal.Light2D",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46594,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": 46560,
+          "Type": "UnityEngine.InputSystem.UI.InputSystemUIInputModule",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46584,
+          "Type": "UnityEngine.UI.GraphicRaycaster",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46576,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": -1304,
+          "Type": "UnityEngine.UI.CanvasScaler",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1330,
+          "Type": "UnityEngine.UI.CanvasScaler",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46544,
+          "Type": "UnityEngine.Rendering.Universal.UniversalAdditionalCameraData",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1332,
+          "Type": "UnityEngine.UI.GraphicRaycaster",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46568,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": 46562,
+          "Type": "UnityEngine.EventSystems.EventSystem",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1316,
+          "Type": "BuildingView",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": -1306,
+          "Type": "UnityEngine.UI.GraphicRaycaster",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1288,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": -1314,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": 46586,
+          "Type": "UnityEngine.UI.CanvasScaler",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1290,
+          "Type": "BuildingView",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": 46596,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46578,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1286,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46570,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1312,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1296,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46606,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46528,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1322,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46534,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        }
+      ]
+    },
+    {
+      "Id": "6852d61142ad4911b64607eaa7644a55",
+      "Name": "cs-orch-20260317-195955",
+      "CreatedUtc": "2026-03-17T16:59:55.786717Z",
+      "Entries": [
+        {
+          "ComponentInstanceId": 46542,
+          "Type": "UnityEngine.AudioListener",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46546,
+          "Type": "UnityEngine.Camera",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1302,
+          "Type": "UnityEngine.Canvas",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46588,
+          "Type": "UnityEngine.Canvas",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1328,
+          "Type": "UnityEngine.Canvas",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46552,
+          "Type": "UnityEngine.Rendering.Universal.Light2D",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46594,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": 46560,
+          "Type": "UnityEngine.InputSystem.UI.InputSystemUIInputModule",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46584,
+          "Type": "UnityEngine.UI.GraphicRaycaster",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46576,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": -1304,
+          "Type": "UnityEngine.UI.CanvasScaler",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1330,
+          "Type": "UnityEngine.UI.CanvasScaler",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46544,
+          "Type": "UnityEngine.Rendering.Universal.UniversalAdditionalCameraData",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1332,
+          "Type": "UnityEngine.UI.GraphicRaycaster",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46568,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": 46562,
+          "Type": "UnityEngine.EventSystems.EventSystem",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1316,
+          "Type": "BuildingView",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": -1306,
+          "Type": "UnityEngine.UI.GraphicRaycaster",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1288,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": -1314,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": 46586,
+          "Type": "UnityEngine.UI.CanvasScaler",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1290,
+          "Type": "BuildingView",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": 46596,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46578,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1286,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46570,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1312,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1296,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46606,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46528,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1322,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46534,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        }
+      ]
+    },
+    {
+      "Id": "4e3a01d8d9fc4de7a68d584f07800b7e",
+      "Name": "cs-orch-20260317-195640",
+      "CreatedUtc": "2026-03-17T16:56:40.8001085Z",
+      "Entries": [
+        {
+          "ComponentInstanceId": 46542,
+          "Type": "UnityEngine.AudioListener",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46546,
+          "Type": "UnityEngine.Camera",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1302,
+          "Type": "UnityEngine.Canvas",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46588,
+          "Type": "UnityEngine.Canvas",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1328,
+          "Type": "UnityEngine.Canvas",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46552,
+          "Type": "UnityEngine.Rendering.Universal.Light2D",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46594,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": 46560,
+          "Type": "UnityEngine.InputSystem.UI.InputSystemUIInputModule",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46584,
+          "Type": "UnityEngine.UI.GraphicRaycaster",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46576,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": -1304,
+          "Type": "UnityEngine.UI.CanvasScaler",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1330,
+          "Type": "UnityEngine.UI.CanvasScaler",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46544,
+          "Type": "UnityEngine.Rendering.Universal.UniversalAdditionalCameraData",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1332,
+          "Type": "UnityEngine.UI.GraphicRaycaster",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46568,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": 46562,
+          "Type": "UnityEngine.EventSystems.EventSystem",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1316,
+          "Type": "BuildingView",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": -1306,
+          "Type": "UnityEngine.UI.GraphicRaycaster",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1288,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": -1314,
+          "Type": "SortByY",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": 46586,
+          "Type": "UnityEngine.UI.CanvasScaler",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1290,
+          "Type": "BuildingView",
+          "Enabled": false
+        },
+        {
+          "ComponentInstanceId": 46596,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46578,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1286,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46570,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1312,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1296,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46606,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46528,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1322,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46534,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        }
+      ]
+    },
+    {
+      "Id": "bc17dd5f328a4a4cbc3ef0a86dcf17d9",
+      "Name": "cs-orch-20260317-195608",
+      "CreatedUtc": "2026-03-17T16:56:08.042283Z",
+      "Entries": [
+        {
+          "ComponentInstanceId": 46542,
+          "Type": "UnityEngine.AudioListener",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46546,
+          "Type": "UnityEngine.Camera",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1302,
+          "Type": "UnityEngine.Canvas",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46588,
+          "Type": "UnityEngine.Canvas",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1328,
+          "Type": "UnityEngine.Canvas",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46552,
+          "Type": "UnityEngine.Rendering.Universal.Light2D",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46594,
+          "Type": "SortByY",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46560,
+          "Type": "UnityEngine.InputSystem.UI.InputSystemUIInputModule",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46584,
+          "Type": "UnityEngine.UI.GraphicRaycaster",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46576,
+          "Type": "SortByY",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1304,
+          "Type": "UnityEngine.UI.CanvasScaler",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1330,
+          "Type": "UnityEngine.UI.CanvasScaler",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46544,
+          "Type": "UnityEngine.Rendering.Universal.UniversalAdditionalCameraData",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1332,
+          "Type": "UnityEngine.UI.GraphicRaycaster",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46568,
+          "Type": "SortByY",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46562,
+          "Type": "UnityEngine.EventSystems.EventSystem",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1316,
+          "Type": "BuildingView",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1306,
+          "Type": "UnityEngine.UI.GraphicRaycaster",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1288,
+          "Type": "SortByY",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1314,
+          "Type": "SortByY",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46586,
+          "Type": "UnityEngine.UI.CanvasScaler",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1290,
+          "Type": "BuildingView",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46596,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46578,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1286,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46570,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1312,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1296,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46606,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46528,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1322,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46534,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        }
+      ]
+    },
+    {
+      "Id": "6947c17876554ef4aa154cd49afb051f",
+      "Name": "wf-20260317-194256",
+      "CreatedUtc": "2026-03-17T16:42:56.7346145Z",
+      "Entries": [
+        {
+          "ComponentInstanceId": 46542,
+          "Type": "UnityEngine.AudioListener",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46546,
+          "Type": "UnityEngine.Camera",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1302,
+          "Type": "UnityEngine.Canvas",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46588,
+          "Type": "UnityEngine.Canvas",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1328,
+          "Type": "UnityEngine.Canvas",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46552,
+          "Type": "UnityEngine.Rendering.Universal.Light2D",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46594,
+          "Type": "SortByY",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46560,
+          "Type": "UnityEngine.InputSystem.UI.InputSystemUIInputModule",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46584,
+          "Type": "UnityEngine.UI.GraphicRaycaster",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46576,
+          "Type": "SortByY",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1304,
+          "Type": "UnityEngine.UI.CanvasScaler",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1330,
+          "Type": "UnityEngine.UI.CanvasScaler",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46544,
+          "Type": "UnityEngine.Rendering.Universal.UniversalAdditionalCameraData",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1332,
+          "Type": "UnityEngine.UI.GraphicRaycaster",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46568,
+          "Type": "SortByY",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46562,
+          "Type": "UnityEngine.EventSystems.EventSystem",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1316,
+          "Type": "BuildingView",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1306,
+          "Type": "UnityEngine.UI.GraphicRaycaster",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1288,
+          "Type": "SortByY",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1314,
+          "Type": "SortByY",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46586,
+          "Type": "UnityEngine.UI.CanvasScaler",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1290,
+          "Type": "BuildingView",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46596,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46578,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1286,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46570,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1312,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1296,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46606,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46528,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -1322,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46534,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        }
+      ]
+    },
+    {
+      "Id": "5d0717b49fef4cab82231bf0ae6e4a5e",
+      "Name": "persist-test",
+      "CreatedUtc": "2026-03-17T16:26:03.8218377Z",
+      "Entries": [
+        {
+          "ComponentInstanceId": 46474,
+          "Type": "UnityEngine.AudioListener",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46478,
+          "Type": "UnityEngine.Camera",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -15854,
+          "Type": "UnityEngine.Canvas",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -15780,
+          "Type": "UnityEngine.Canvas",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46518,
+          "Type": "UnityEngine.Canvas",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46492,
+          "Type": "UnityEngine.EventSystems.EventSystem",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -15842,
+          "Type": "BuildingView",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -15856,
+          "Type": "UnityEngine.UI.CanvasScaler",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46498,
+          "Type": "SortByY",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46484,
+          "Type": "UnityEngine.Rendering.Universal.Light2D",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -15858,
+          "Type": "UnityEngine.UI.GraphicRaycaster",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46516,
+          "Type": "UnityEngine.UI.CanvasScaler",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46524,
+          "Type": "SortByY",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -15840,
+          "Type": "SortByY",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -15782,
+          "Type": "UnityEngine.UI.CanvasScaler",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -15766,
+          "Type": "SortByY",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46490,
+          "Type": "UnityEngine.InputSystem.UI.InputSystemUIInputModule",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -15784,
+          "Type": "UnityEngine.UI.GraphicRaycaster",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46506,
+          "Type": "SortByY",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46514,
+          "Type": "UnityEngine.UI.GraphicRaycaster",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46476,
+          "Type": "UnityEngine.Rendering.Universal.UniversalAdditionalCameraData",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -15768,
+          "Type": "BuildingView",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -15838,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46500,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46508,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46526,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -15764,
+          "Type": "UnityEngine.Rendering.SortingGroup",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46464,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -15774,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46470,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": -15848,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        },
+        {
+          "ComponentInstanceId": 46534,
+          "Type": "UnityEngine.SpriteRenderer",
+          "Enabled": true
+        }
+      ]
+    }
+  ]
+}
